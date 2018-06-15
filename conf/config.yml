@@ -1,6 +1,6 @@
 database:
   ip: 127.0.0.1
   port: 1521
+  sid: xe
   id: test
   pw: test
-  sid: xe
